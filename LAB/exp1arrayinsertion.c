@@ -24,9 +24,9 @@ int main()
     {
 
         printf("\nMenu:\n");
-        printf("1. Insert at Beginning\n");
-        printf("2. Insert at End\n");
-        printf("3. Insert at Specific Position\n");
+        printf("1. insert at Beginning\n");
+        printf("2. insert at End\n");
+        printf("3. insert at Specific Position\n");
         printf("4. Display Array\n");
         printf("5. Exit\n");
         printf("Enter your choice: ");
